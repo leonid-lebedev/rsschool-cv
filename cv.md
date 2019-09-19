@@ -21,6 +21,7 @@
 * [Stepic.org](https://stepik.org/users/39560951)
 * [Udemy](https://www.udemy.com/user/leonid-lebedev/)
 * [School developers Thumbtack](https://intern.thumbtack.ru/)
+
 ### Education
 1999 - 2009 Saratov state University Mathematician/Programmer
 ### English
